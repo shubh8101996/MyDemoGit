@@ -4,7 +4,7 @@ package Utilities;
  * @author Shubham Sanjay Shedge 
  * Created Date: Dec 25th, 2019
  * mail me at naveenanimation20@gmail.com in case of any PR or query
- * Licensed under NaveenAutomation Labs
+ * Licensed under Shubham Shedge Techinal Labs
  */
 
 import java.io.FileInputStream;
