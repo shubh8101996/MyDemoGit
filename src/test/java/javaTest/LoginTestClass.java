@@ -18,7 +18,7 @@ import javaPageclass.MainPageObject;
 
 @Listeners(Utilities.ExtentListenerClass.class)   
 
-public class LoginTestClass extends BaseClass {
+public class LoginTestClass extends BaseClass {     //This is the class of login Test 
 	
 	
 	@Test(priority=1)
