@@ -100,3 +100,11 @@
 [INFO ] 2022-06-30 16:20:00.203 [main] PageObjectModel - Enter Credentials
 [INFO ] 2022-06-30 16:20:00.271 [main] PageObjectModel - Clicked on button
 [INFO ] 2022-06-30 16:20:33.788 [main] PageObjectModel - Clicked on Logout button
+[INFO ] 2022-07-01 18:53:38.623 [main] PageObjectModel - Url Entered
+[INFO ] 2022-07-01 18:53:39.349 [main] PageObjectModel - All Cookies deleted
+[INFO ] 2022-07-01 18:53:39.509 [main] PageObjectModel - Window Maximized
+[INFO ] 2022-07-01 18:53:51.447 [main] PageObjectModel - Click on Login button
+[INFO ] 2022-07-01 18:53:54.792 [main] PageObjectModel - Enter Credentials
+[INFO ] 2022-07-01 18:53:54.873 [main] PageObjectModel - Clicked on button
+[INFO ] 2022-07-01 18:54:58.819 [main] PageObjectModel - Enter Credentials
+[INFO ] 2022-07-01 18:54:58.889 [main] PageObjectModel - Clicked on button
