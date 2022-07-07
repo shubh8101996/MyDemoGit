@@ -278,7 +278,7 @@
 
   <target name="compile" depends="get-deps" description="Compile the code">
     <mkdir dir="${maven.build.outputDir}"/>
-    <javac destdir="${maven.build.outputDir}" 
+    <javac includeantruntime="false" destdir="${maven.build.outputDir}" 
            nowarn="false" 
            debug="true" 
            optimize="false" 
