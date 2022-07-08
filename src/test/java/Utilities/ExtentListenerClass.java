@@ -23,7 +23,7 @@ public class ExtentListenerClass implements ITestListener {
 	ExtentReports reports;
 	ExtentTest test;
 	
-	public void configureReport()
+	public void configureReport() //this is the method of creating report
 	{
 		ReaderConfig readConfig = new ReaderConfig();
 		String timestamp = new SimpleDateFormat("yyyy.mm.dd.hh.mm.ss").format(new Date());
