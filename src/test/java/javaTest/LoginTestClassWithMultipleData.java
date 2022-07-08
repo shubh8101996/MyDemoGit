@@ -19,7 +19,7 @@ import javaPageclass.MainPageObject;
 
      
 @Listeners(Utilities.ExtentListenerClass.class)   
-public class LoginTestClassWithMultipleData extends BaseClass {
+public class LoginTestClassWithMultipleData extends BaseClass { //this test case define multiple data value using data provider
 	
 	@Test(priority=1,dataProvider = "LoginDataProvider")
 	public void Login(String username,String password) throws InterruptedException, IOException {
